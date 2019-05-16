@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dland512/jenkins-test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dland512/jenkins-test-repo/issues"
+  },
+  "homepage": "https://github.com/dland512/jenkins-test-repo#readme",
+  "dependencies": {
+    "express": "~4.16.4"
+  }
+}
